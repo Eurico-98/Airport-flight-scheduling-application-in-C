@@ -1,0 +1,76 @@
+16:53:06 : Inicio do gestor de simulação  PID: 6243
+16:53:06 : Ativação da torre de controlo PID: 6245
+16:53:06 : Novo comando - DEPARTURE TP4j init: 5 takeoff: 6
+16:53:06 : Novo comando - ARRIVAL TP1A init: 2 eta: 2 fuel: 9
+16:53:06 : Novo comando - ARRIVAL TP2 init: 3 eta: 2 fuel: 13
+16:53:06 : Novo comando - ARRIVAL TP3b init: 4 eta: 2 fuel: 15
+16:53:06 : Novo comando - DEPARTURE TP1D init: 2 takeoff: 3
+16:53:06 : Novo comando - ARRIVAL TP3a init: 4 eta: 3 fuel: 11
+16:53:06 : Novo comando - ARRIVAL TP4k init: 5 eta: 4 fuel: 12
+16:53:06 : Novo comando - ARRIVAL TP0 init: 5 eta: 3 fuel: 9
+16:53:06 : Novo comando - DEPARTURE TP4p init: 5 takeoff: 6
+16:53:06 : Novo comando - ARRIVAL TP5 init: 6 eta: 2 fuel: 15
+16:53:06 : Novo comando - DEPARTURE TP5Da init: 6 takeoff: 8
+16:53:06 : Novo comando - DEPARTURE TP6b init: 8 takeoff: 10
+16:53:06 : Novo comando - ARRIVAL TP00 init: 8 eta: 3 fuel: 9
+16:53:06 : Novo comando - DEPARTURE TP6a init: 8 takeoff: 10
+16:53:06 : Novo comando - ARRIVAL TP5 init: 6 eta: 5 fuel: 13
+16:53:10 : TP1D DEPARTURE criado
+16:53:10 : TP1A ARRIVAL criado
+16:53:10 : TP1A ATERRAGEM 01R iniciada
+16:53:10 : TP1A ATERRAGEM 01R concluida
+16:53:12 : TP1D DESCOLAGEM 28L iniciada
+16:53:12 : TP2 ARRIVAL criado
+16:53:12 : TP1D DESCOLAGEM 28L concluida
+16:53:13 : TP2 ATERRAGEM 01L iniciada
+16:53:13 : TP2 ATERRAGEM 01L concluida
+16:53:14 : TP3a ARRIVAL criado
+16:53:14 : TP3b ARRIVAL criado
+16:53:14 : TP3b ATERRAGEM 01L iniciada
+16:53:14 : TP3b ATERRAGEM 01L concluida
+16:53:14 : TP3a ATERRAGEM 01R iniciada
+16:53:15 : TP3a ATERRAGEM 01R concluida
+16:53:16 : TP4p DEPARTURE criado
+16:53:16 : TP0 ARRIVAL criado
+16:53:16 : TP0 Aterragem de emergência pedida
+16:53:16 : TP4k ARRIVAL criado
+16:53:16 : TP4j DEPARTURE criado
+16:53:16 : TP0 ATERRAGEM DE EMERGENCIA 01L iniciada
+16:53:16 : TP0 ATERRAGEM DE EMERGENCIA 01L concluida
+16:53:16 : TP4k ATERRAGEM 01R iniciada
+16:53:17 : TP4k ATERRAGEM 01R concluida
+16:53:18 : TP4j DESCOLAGEM 28R iniciada
+16:53:18 : TP5 ARRIVAL criado
+16:53:18 : TP5  criado
+16:53:18 : TP5Da DEPARTURE criado
+16:53:18 : TP4j DESCOLAGEM 28R concluida
+16:53:19 : TP4p DESCOLAGEM 28L iniciada
+16:53:19 : TP4p DESCOLAGEM 28L concluida
+16:53:20 : TP5 ATERRAGEM 01R iniciada
+16:53:20 : TP5 ATERRAGEM 01R concluida
+16:53:20 : TP5 ATERRAGEM 01L iniciada
+16:53:21 : TP5 ATERRAGEM 01L concluida
+16:53:22 : TP5Da DESCOLAGEM 28R iniciada
+16:53:22 : TP00 ARRIVAL criado
+16:53:22 : TP00 Aterragem de emergência pedida
+16:53:22 : TP6b DEPARTURE criado
+16:53:22 : TP6a DEPARTURE criado
+16:53:22 : TP5Da DESCOLAGEM 28R concluida
+16:53:23 : TP00 ATERRAGEM DE EMERGENCIA 01L iniciada
+16:53:23 : TP00 ATERRAGEM DE EMERGENCIA 01L concluida
+16:53:26 : TP6a DESCOLAGEM 28L iniciada
+16:53:26 : TP6a DESCOLAGEM 28L concluida
+16:53:27 : TP6b DESCOLAGEM 28R iniciada
+16:53:27 : TP6b DESCOLAGEM 28R concluida
+16:53:32 ---------------------------ESTATISTICAS----------------------------
+16:53:32 Número total de voos criados: 15
+16:53:32 Número total de voos que aterraram: 9
+16:53:32 Número total de voos que descolaram: 6
+16:53:32 Número de voos redirecionados para outro aeroporto: 0
+16:53:32 Número de voos rejeitados pela Torre de controlo: 0
+16:53:32 Tempo médio de espera para aterrar: 5.000
+16:53:32 Tempo médio de espera para descolar: 5.000
+16:53:32 Número médio de  manobras de holding por voo de aterragem: 0.000
+16:53:32 Número médio de manobras de holding por voo em estado de urgência: 0.0
+16:53:32 ----------------------------------------------------------------
+16:53:32 : Fim de simulação

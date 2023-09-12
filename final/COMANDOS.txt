@@ -1,0 +1,15 @@
+DEPARTURE TP4j init: 5 takeoff: 6
+ARRIVAL TP1A init: 2 eta: 2 fuel: 9
+ARRIVAL TP2 init: 3 eta: 2 fuel: 13
+ARRIVAL TP3b init: 4 eta: 2 fuel: 15
+DEPARTURE TP1D init: 2 takeoff: 3
+ARRIVAL TP3a init: 4 eta: 3 fuel: 11
+ARRIVAL TP4k init: 5 eta: 4 fuel: 12
+ARRIVAL TP0 init: 5 eta: 3 fuel: 9
+DEPARTURE TP4p init: 5 takeoff: 6
+ARRIVAL TP5 init: 6 eta: 2 fuel: 15
+DEPARTURE TP5Da init: 6 takeoff: 8
+DEPARTURE TP6b init: 8 takeoff: 10
+ARRIVAL TP00 init: 8 eta: 3 fuel: 9
+DEPARTURE TP6a init: 8 takeoff: 10
+ARRIVAL TP5 init: 6 eta: 5 fuel: 13
